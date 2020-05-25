@@ -1,6 +1,6 @@
 # My Portfolio
-![alt text](http://url/to/img.png)
-https://github.com/AdamCassidy/GreenThumb
+![alt text](https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png)
+https://github.com/AdamCassidy/GreenThumb  
 An app that allows users to upload a photograph of a plant and have its species 
 determined by machine learning. Registered users can also upload their photographs 
 to the appropriate species' page where they can be seen by other users. 
@@ -13,7 +13,7 @@ I worked on the back-end for this project.
 * Javascript
 
 ## DetectPhoneMovement
-https://github.com/AdamCassidy/DetectPhoneMovement
+https://github.com/AdamCassidy/DetectPhoneMovement  
 An app, made by request for the police, that quickly notifies once a phone is moved.
 
 ### What I learned
