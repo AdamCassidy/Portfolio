@@ -21,7 +21,7 @@ An app, made by request for the police, that quickly notifies once a phone is mo
 * Firebase
 * Volley
 
-## PyBraid
+## PyBraid  
 https://github.com/AdamCassidy/PyBraid
 A software library that contains various and unique data structures and algorithms.
 
