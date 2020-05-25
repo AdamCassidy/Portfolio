@@ -1,5 +1,6 @@
 # My Portfolio
 <img src="https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png" alt="logo" width="400"/>  
+
 https://github.com/AdamCassidy/GreenThumb  
 An app that allows users to upload a photograph of a plant  
 and have its species determined by machine learning.  
