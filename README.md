@@ -1,14 +1,15 @@
 # My Portfolio
 ![alt text](https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png)
 https://github.com/AdamCassidy/GreenThumb  
-An app that allows users to upload a photograph of a plant and have its species 
-determined by machine learning. Registered users can also upload their photographs 
-to the appropriate species' page where they can be seen by other users. 
-I worked on the back-end for this project.
+An app that allows users to upload a photograph of a plant 
+and have its species determined by machine learning. 
+Registered users can also upload their photographs to the 
+appropriate species' page where they can be seen by other 
+users. I worked on the back-end for this project.
 
 ### What I learned
-* Git
 * RESTful APIs
+* Git
 * Node.js
 * Javascript
 
