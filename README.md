@@ -2,7 +2,7 @@
 <img src="https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png" alt="logo" width="300"/>  
 
 https://github.com/AdamCassidy/GreenThumb  
-An app that allows users to upload a photograph of a plant and have its species determined by machine learning. Registered users can also upload their photographs to the appropriate species' page where they can be seen by other users. I worked on the back-end for this project.
+I worked on the back-end for this app that allows users to upload a photograph of a plant and have its species determined by machine learning. Registered users can also upload their photographs to the appropriate species' page where they can be seen by other users
 
 ### What I learned
 * RESTful APIs
