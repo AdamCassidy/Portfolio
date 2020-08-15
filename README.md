@@ -9,7 +9,7 @@ I worked on the back-end for this app that allows users to upload a photograph o
 * Git
 * Node.js
 * Javascript
-  
+<br/>  
   
 ## DetectPhoneMovement
 https://github.com/AdamCassidy/DetectPhoneMovement  
@@ -19,6 +19,7 @@ An app, made by request for the police, that quickly notifies once a phone is mo
 * Android Studio
 * Firebase
 * Volley
+<br/>
   
   
 ## PyBraid  
