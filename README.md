@@ -2,9 +2,9 @@
 <img src="https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png" alt="logo" width="300"/>  
 
 https://github.com/AdamCassidy/GreenThumb  
-I worked on the back-end for this app that allows users to upload a photograph of a plant and have its species determined by machine learning. Registered users can also upload their photographs to the appropriate species' page where they can be seen by other users.
+This is a responsive mobile app that stores a user’s photo of a local plant with MS SQL and Javascript, and then identifies its species with Python. Registered users can also upload their photographs to the appropriate species' page where they can be seen by other users. I worked on the back end, which uses a RESTful API, with Node.js and Express. This was made in an Agile environment, using Git and integration testing. 
 
-### What I learned
+### Skills Gained
 * RESTful APIs
 * Git
 * Node.js
@@ -15,7 +15,7 @@ I worked on the back-end for this app that allows users to upload a photograph o
 https://github.com/AdamCassidy/DetectPhoneMovement  
 An app, made by request for the police, that quickly notifies once a phone is moved.
 
-### What I learned
+### Skills gained
 * Android Studio
 * Firebase
 * Volley
@@ -24,9 +24,9 @@ An app, made by request for the police, that quickly notifies once a phone is mo
   
 ## PyBraid  
 https://github.com/AdamCassidy/PyBraid  
-A software library that contains various and unique data structures and algorithms.
+This is a Python library, made with unit testing and test-driven development, that holds various unique object-oriented programming data structures and algorithms.
 
-### What I learned
+### Skills gained
 * Data structures
 * Sorting algorithms
 * Python
