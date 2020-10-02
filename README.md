@@ -5,7 +5,7 @@ www.secondopinionforum.com
 <br/>
 https://github.com/AdamCassidy/feedback-app
 <br/>
-A responsive social media forum that's focused on discussion of constructive feedback. It was made with Vue.js and Firebase. It uses Vuex to manage state and makes RESTful API calls to Firebase's realtime database. It uses Firebase's authentication service and funnels alert messages from them. The app also uses custom validation of its own to get the full authentication flow. Users can upload avatars, or images, to their posts and comment and reply to each other on those posts. Users can also tag a topic to their post if they please or view posts on a specific topic. JS cookie and vuex are used to persist state, and SASS is used for the styling.
+A responsive social media forum that's focused on discussion of constructive feedback. It was made with Vue.js and Firebase. It uses Vuex to manage state and makes RESTful API calls to Firebase's realtime database. It uses Firebase's authentication service and funnels alert messages from them. The app also uses custom validation of its own to get the full authentication flow. Users can upload avatars, or images to their posts, and they are kept in Firebase storage. They can also comment and reply to each other on their posts and delete or edit all of their content. Users can also tag a topic to their post if they please or view posts on a specific topic. JS cookie and vuex are used to persist state, and SASS is used for the styling.
 
 ### Skills gained
 * Vue.js
