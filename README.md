@@ -26,6 +26,7 @@ This is a responsive mobile app that stores a user’s photo of a local plant wi
 <br/>  
   
 ## DetectPhoneMovement
+<img src="https://user-images.githubusercontent.com/43080428/96004770-c8208100-0e09-11eb-8826-6fabdddd0ed0.gif"/>  
 https://github.com/AdamCassidy/DetectPhoneMovement  
 An app, made by request for the police, that quickly notifies once a phone is moved.
 
