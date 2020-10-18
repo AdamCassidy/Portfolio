@@ -5,7 +5,8 @@ www.secondopinionforum.com/about
 <br/>
 https://github.com/AdamCassidy/feedback-app
 <br/>
-A responsive social media forum that's focused on discussion of constructive feedback. It was made with Vue.js and Firebase. It uses Vuex to manage state and makes RESTful API calls to Firebase's realtime database where it holds user's content. It uses Firebase's authentication service and funnels alert messages from them. The app also uses custom validation of its own to get the full authentication flow. Users can upload avatars, or images to their posts, and they are kept in Firebase storage. They can also comment and reply to each other on their posts and delete or edit all of their content. Users can also tag a topic to their post if they please or view posts on a specific topic. JS cookie and vuex are used to persist state, and SASS is used for the styling.
+  A responsive social media forum that's focused on discussion of constructive feedback. It was made with Vue.js and Firebase. It uses Vuex to manage state and makes RESTful API calls to Firebase's realtime database where it holds user's content. It uses Firebase's authentication service and funnels alert messages from them. The app also uses custom validation of its own to get the full authentication flow. Users can upload avatars, or images to their posts, and they are kept in Firebase storage. 
+  Performance is optimized with asynchronous components. Also, all posts throughout time can be viewed because of an infinite scroll implementation. They can also comment and reply to each other on their posts and delete or edit all of their content. Users can also tag a topic to their post if they please or view posts on a specific topic. JS cookie and vuex are used to persist state, and Sass is used for the styling.
 
 ### Skills gained
 * Vue.js
@@ -16,7 +17,7 @@ A responsive social media forum that's focused on discussion of constructive fee
 <img src="https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png" alt="logo" width="300"/>  
 
 https://github.com/AdamCassidy/GreenThumb/tree/master-backend/backend <br/>
-This is a responsive mobile app that stores a user’s photo of a local plant with MS SQL and Javascript, and then identifies its species with Python. Registered users can also upload their photographs to the appropriate species' page where they can be seen by other users. I worked on the back end, which uses a RESTful API, with Node.js and Express. This was made in an Agile environment, using Git and integration testing. 
+  This is a responsive mobile app that stores a user’s photo of a local plant with MS SQL and Javascript, and then identifies its species with Python. Registered users can also upload their photographs to the appropriate species' page where they can be seen by other users. I worked on the back end, which uses a RESTful API, with Node.js and Express. This was made in an Agile environment, using Git and integration testing. 
 
 ### Skills gained
 * RESTful APIs
@@ -29,7 +30,7 @@ This is a responsive mobile app that stores a user’s photo of a local plant wi
 <img src="https://user-images.githubusercontent.com/43080428/96004770-c8208100-0e09-11eb-8826-6fabdddd0ed0.gif"/>
 
 https://github.com/AdamCassidy/DetectPhoneMovement  
-An app, made by request for the police, that quickly sends a notification of the unique id of a phone if it was even slightly moved.
+  An app, made by request for the police, that quickly sends a notification of the unique id of a phone if it was even slightly moved.
 
 ### Skills gained
 * Android Studio
@@ -40,7 +41,7 @@ An app, made by request for the police, that quickly sends a notification of the
   
 ## PyBraid  
 https://github.com/AdamCassidy/PyBraid  
-This is a Python library, made with unit testing and test-driven development, that holds various unique object-oriented programming data structures and algorithms.
+  This is a Python library, made with unit testing and test-driven development, that holds various unique object-oriented programming data structures and algorithms.
 
 ### Skills gained
 * Data structures
