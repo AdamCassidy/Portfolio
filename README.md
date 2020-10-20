@@ -14,6 +14,7 @@ https://github.com/AdamCassidy/feedback-app
 * Veux
 * Vuetify
 <br/>  
+<br/>
 
 <img src="https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png" alt="logo" width="300"/>  
 
