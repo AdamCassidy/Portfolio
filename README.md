@@ -40,7 +40,7 @@ https://github.com/AdamCassidy/DetectPhoneMovement
 <br/>
   
   
-## PyBraid  
+<img src="https://user-images.githubusercontent.com/43080428/96632706-1809b700-12e6-11eb-802e-4eeff573a661.png" alt="logo" width="300"/>
 https://github.com/AdamCassidy/PyBraid  
   This is a Python library, made with unit testing and test-driven development, that holds various unique object-oriented programming data structures and algorithms.
 
