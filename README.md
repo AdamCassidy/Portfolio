@@ -15,6 +15,7 @@ www.secondopinionforum.com/about
 * Webpack
 * SEO
 * Performance optimization
+* Authentication and validation
 * Realtime communication
 <br/>  
 <br/>
