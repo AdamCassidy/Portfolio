@@ -11,8 +11,11 @@ https://github.com/AdamCassidy/feedback-app
 
 ### Skills gained
 * Vue.js
-* Veux
-* Vuetify
+* Sass
+* Webpack
+* SEO
+* Performance optimization
+* Realtime communication
 <br/>  
 <br/>
 
